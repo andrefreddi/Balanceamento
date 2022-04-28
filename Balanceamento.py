@@ -1,3 +1,5 @@
+#Intala primeiro: pip install pythonds
+
 from pythonds.basic.stack import Stack
 
 def VerificarPar(ParentesesString):
